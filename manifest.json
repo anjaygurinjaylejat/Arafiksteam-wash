@@ -1,0 +1,22 @@
+{
+  "name": "ARAFIK STEAM WASH",
+  "short_name": "Arafik",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "description": "Aplikasi kasir motor ARAFIK STEAM WASH - Jl. Inpres Raya No.58, Gaga, Larangan",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
